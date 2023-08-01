@@ -1,7 +1,3 @@
-# Data-analytics-project
-A project developed using mysql,tableau,vscode and bootstrap
-
-
 # Ford GoBike Business Analytics Trend Website
 
 Welcome to the **Ford GoBike Business Analytics Trend Website** GitHub repository! This project is an interactive website that showcases the business analytics trends and insights derived from Ford GoBike organization data. The website presents visualizations, dashboards, and stories based on the data analysis performed using MySQL Workbench and Tableau Desktop. The website is integrated using Bootstrap and VSCode to create a seamless user experience.
